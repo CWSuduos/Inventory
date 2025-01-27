@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: b67d5ae8a3df66b4dbddc16b135812e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3103502175819986770
+    second: free-icon-cartridge-9174229_0
+  - first:
+      213: 4760290238875800956
+    second: free-icon-cartridge-9174229_1
+  - first:
+      213: 3797453846967079666
+    second: free-icon-cartridge-9174229_2
+  - first:
+      213: 3135469526346123646
+    second: free-icon-cartridge-9174229_3
+  - first:
+      213: 637787611363414515
+    second: free-icon-cartridge-9174229_4
+  - first:
+      213: 3169992750410820308
+    second: free-icon-cartridge-9174229_5
+  - first:
+      213: 5440597406086057826
+    second: free-icon-cartridge-9174229_6
+  - first:
+      213: -6361336212964248408
+    second: free-icon-cartridge-9174229_7
+  - first:
+      213: -3040639578497629875
+    second: free-icon-cartridge-9174229_8
+  - first:
+      213: -4076105773126650669
+    second: free-icon-cartridge-9174229_9
+  - first:
+      213: -6898901531936021951
+    second: free-icon-cartridge-9174229_10
+  - first:
+      213: -8509640429018531514
+    second: free-icon-cartridge-9174229_11
+  - first:
+      213: -8313968185881873804
+    second: free-icon-cartridge-9174229_12
+  - first:
+      213: 6211998251609649091
+    second: free-icon-cartridge-9174229_13
+  - first:
+      213: 8536182599152864674
+    second: free-icon-cartridge-9174229_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: free-icon-cartridge-9174229_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad8068e8dc967670800000000000000
+      internalID: 8536182599152864674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      free-icon-cartridge-9174229_0: 3103502175819986770
+      free-icon-cartridge-9174229_1: 4760290238875800956
+      free-icon-cartridge-9174229_10: -6898901531936021951
+      free-icon-cartridge-9174229_11: -8509640429018531514
+      free-icon-cartridge-9174229_12: -8313968185881873804
+      free-icon-cartridge-9174229_13: 6211998251609649091
+      free-icon-cartridge-9174229_14: 8536182599152864674
+      free-icon-cartridge-9174229_2: 3797453846967079666
+      free-icon-cartridge-9174229_3: 3135469526346123646
+      free-icon-cartridge-9174229_4: 637787611363414515
+      free-icon-cartridge-9174229_5: 3169992750410820308
+      free-icon-cartridge-9174229_6: 5440597406086057826
+      free-icon-cartridge-9174229_7: -6361336212964248408
+      free-icon-cartridge-9174229_8: -3040639578497629875
+      free-icon-cartridge-9174229_9: -4076105773126650669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
